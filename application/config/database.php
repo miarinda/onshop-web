@@ -48,10 +48,14 @@
 $active_group = 'default';
 $active_record = TRUE;
 
-$db['default']['hostname'] = 'localhost';
-$db['default']['username'] = 'root';
-$db['default']['password'] = '';
-$db['default']['database'] = 'katalog';
+$db['default']['hostname'] = 'http://sql11.idhostinger.com/phpmyadmin/';
+$db['default']['username'] = 'u108453249_miar';
+$db['default']['password'] = 'Mimi010794';
+$db['default']['database'] = 'u108453249_sprei';
+// $db['default']['hostname'] = 'localhost';
+// $db['default']['username'] = 'root';
+// $db['default']['password'] = '';
+// $db['default']['database'] = 'katalog';
 $db['default']['dbdriver'] = 'mysqli';
 $db['default']['dbprefix'] = '';
 $db['default']['pconnect'] = TRUE;
